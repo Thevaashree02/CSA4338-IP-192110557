@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="p2.css">
+    <title>Cake Ordering System</title>
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="brand">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuUFYPjUGt-1TfMB7-Hn1-46SuYjXRG1-Ed6STp2efQkbfktKuL3m_El-Oa0A0UH7k_4Q&usqp=CAU" alt="Cake Logo" class="logo">
+            CakeTopia
+        </div>
+        <div class="menu">
+            <a href="#home">Home</a>
+            <a href="#cakes">Cakes</a>
+            <a href="#about">About Us</a>
+            <a href="#contact">Contact</a>
+        </div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>Welcome to CakeTopia</h1>
+        </header>
+        <!-- Rest of your content goes here -->
+    </div>
+</body>
+
+</html>
